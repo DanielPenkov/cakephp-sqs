@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "cakephp/cakephp": "^3.3.0",
+        "cakephp/cakephp": "^4.0.0",
         "aws/aws-sdk-php": "~3.32"
     },
     "require-dev": {
